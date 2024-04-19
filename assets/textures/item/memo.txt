@@ -1,4 +1,4 @@
 テクスチャはアクティブ状態の時と二つ作る。
 ファイル名
 パッシブ…player_locator.png
-アクティブ…item/player_locator_active.png
+アクティブ…player_locator_active.png
