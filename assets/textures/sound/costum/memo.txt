@@ -1,4 +1,0 @@
-音を作成する。
-軽い金属音っぽい音がよい。
-ファイル名
-player_locator_sound.ogg
