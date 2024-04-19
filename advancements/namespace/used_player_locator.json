@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "used_player_locator": {
+      "trigger": "minecraft:used",
+      "conditions": {
+        "item": "namespace:player_locator"
+      }
+    }
+  }
+}
