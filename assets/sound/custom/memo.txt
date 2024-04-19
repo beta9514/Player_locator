@@ -1,0 +1,5 @@
+効果音の作成。
+木と軽い金属音の音。
+出力はoggファイルで。
+ファイル名
+player_locator_sound.ogg
