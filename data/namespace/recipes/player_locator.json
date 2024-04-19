@@ -1,0 +1,9 @@
+{
+  "parent": "item/generated",
+  "textures" {
+  "layer0": "items/player_locator"
+  },
+  "overrides":[
+    {"predicate": {"custom_model_data": 1}, "model": "item/player_locator_active"}
+  ]
+}
