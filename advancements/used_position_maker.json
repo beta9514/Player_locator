@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "used_position_maker": {
+      "trigger": "minecraft:used",
+      "conditions" {
+      "item": "namespace:position_maker"
+      }
+    }
+  }
+}
