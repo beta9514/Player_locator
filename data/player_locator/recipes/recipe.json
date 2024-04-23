@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:",
+  "type": "minecraft:crafting_shaped",
   "pattern": [
     "III",
     "RCR",
@@ -17,7 +17,7 @@
     }
   },
   "result": {
-    "item": "minecraft:custom_item",
+    "item": "minecraft:player_locator",
     "count": 1
   }
 }
