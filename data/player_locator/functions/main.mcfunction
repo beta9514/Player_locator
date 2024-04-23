@@ -1,10 +1,10 @@
-#ƒXƒRƒAƒ{[ƒh‚Ìì¬
+#ã‚¹ã‚³ã‚¢ãƒœãƒ¼ãƒ‰ã®ä½œæˆ
 scoreboard objectives add PlayerPos dummy
-#ˆÊ’u‚ğæ“¾
+#ä½ç½®ã‚’å–å¾—
 execute as @a store result score @s PlayerPosX run data get entity @s Pos[0] 100
 execute as @a store result score @s PlayerPosY run data get entity @s Pos[1] 100
 execute as @a store result score @s PlayerPosZ run data get entity @s Pos[2] 100
-#•\¦
+#è¡¨ç¤º
 tellraw @a {"text":"Player X: ","color":"yellow"}
 tellraw @a {"score":{"name":"@a","objective":"PlayerPosX"},"color":"white"}
 tellraw @a {"text":" Player Y: ","color":"yellow"}
