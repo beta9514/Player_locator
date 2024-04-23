@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:",
+  "pattern": [
+    "III",
+    "RCR",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "C": {
+      "item": "minecraft:compass"
+    }
+  },
+  "result": {
+    "item": "minecraft:custom_item",
+    "count": 1
+  }
+}
