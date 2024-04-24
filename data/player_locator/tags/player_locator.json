@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-    "minecraft:player_locator"
+        "minecraft:connpass"
     ]
 }
