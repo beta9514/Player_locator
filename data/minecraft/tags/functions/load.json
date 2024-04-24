@@ -1,5 +1,5 @@
 {
     "values": [
-        "player_locator:load"
+        "load:log_loaded"
     ]
 }
